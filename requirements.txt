@@ -4,6 +4,7 @@ langchain
 langchain-google-genai
 langchain-openai
 langchain-groq
+langchain-community
 chromadb
 pydantic
 python-dotenv
