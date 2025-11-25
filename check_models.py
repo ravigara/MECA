@@ -3,7 +3,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("AIzaSyDK7A3EFYWwXZqe0o2hlN1C-CT7bZO008U")
+api_key = os.getenv("<your api key>")
 genai.configure(api_key=api_key)
 
 print("Checking available models for your API key...")
