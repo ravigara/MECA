@@ -87,7 +87,6 @@ MECA/
 ├── .env                  # API Keys (Not uploaded to Git)
 └── README.md             # Documentation
 
- MECA  is also available as a web application visit http://192.168.215.28:8501
 
 
     
