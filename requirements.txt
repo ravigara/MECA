@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-google-genai
+langchain-openai
+langchain-groq
+chromadb
+pydantic
+python-dotenv
+langchain_chroma
+biopython
+beautifulsoup4
+fpdf
